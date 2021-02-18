@@ -12,4 +12,4 @@ About dataset:
   4. Channel performance
 
 Objective:
-Objective of this project to perform exploratory data analysis using python packages Numpy, Pandas, Matplotlib and Seaborn. Finally, using sci-kit learn package to perform lasso regression to find important features that contribute to number of store purchases
+* Objective of this project to perform exploratory data analysis using python packages Numpy, Pandas, Matplotlib and Seaborn. Finally, using sci-kit learn package to perform lasso regression to find important features that contribute to number of store purchases
